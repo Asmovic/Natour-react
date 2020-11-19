@@ -6,7 +6,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Header from '../components/header/header.component';
 import NavBar from '../components/nav-bar/nav-bar.component';
 import Footer from '../components/footer/footer.component'; */
-import HomePage from '../components/HomePage';
+import HomePage from '../Pages/HomePage';
 
 function Routes() {
   return (
