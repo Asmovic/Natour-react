@@ -5,6 +5,7 @@ import { Provider } from 'react-redux';
 import Routes from './routes';
 import { store } from './store';
 import './sass/main.scss';
+import './css/icon-font.css';
 
 function App() {
   return (
